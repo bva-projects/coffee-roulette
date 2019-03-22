@@ -24,8 +24,7 @@ new Vue({
 		],
 		personOne: '',
 		personTwo: '',
-		personThree: '',
-		personFour: ''
+		personThree: ''
 	},
 	methods: {
 		generateNames: function() {
@@ -45,7 +44,6 @@ new Vue({
 			this.personOne = this.names[0];
 			this.personTwo = this.names[1];
 			this.personThree = this.names[2];
-			this.personFour = this.names[3];
 		}
 	}
 });

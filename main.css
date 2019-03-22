@@ -45,8 +45,8 @@ h1 {
 .persons {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 1fr 1fr;
-      grid-template-columns: 1fr 1fr;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
   justify-items: center;
   grid-gap: 3rem;
   font-size: 2.5rem;
