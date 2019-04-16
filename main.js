@@ -2,23 +2,18 @@ new Vue({
 	el: '#app',
 	data: {
 		names: [
-			'James Ackley',
 			'Lauren Berndt',
-			'Bill Clifford',
 			'Andrew Clinton',
 			'Brittney Dahmer',
 			'Courtney Freeland',
 			'Jeff Gieske',
 			'Jacob Gilmore',
 			'Emma Hardesty',
-			'Don Herre',
 			'Corey Hivner',
 			'Jan Humphries',
-			'Matthew Metzger',
 			'Anthony Musolino',
 			'Mark Oxier',
 			'Jonathan Poma',
-			'Aaron Smith',
 			'Scott Stadt',
 			'Michael Sweeney'
 		],
